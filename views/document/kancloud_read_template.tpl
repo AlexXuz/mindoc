@@ -38,8 +38,8 @@
                     <ul class="dropdown-menu dropdown-menu-right" role="menu" aria-labelledby="dLabel">
                         <li><a href="javascript:" data-toggle="modal" data-target="#shareProject">项目分享</a> </li>
                         <li role="presentation" class="divider"></li>
-                        <li><a href="https://wiki.iminho.me/export/1" target="_blank">项目导出</a> </li>
-                        <li><a href="https://wiki.iminho.me" title="返回首页">返回首页</a> </li>
+                        <li><a href="" target="_blank">项目导出</a> </li>
+                        <li><a href="" title="返回首页">返回首页</a> </li>
                     </ul>
                 </div>
             </div>
@@ -61,9 +61,6 @@
                 </div>
             </div>
             <div class="m-copyright">
-                <p>
-                    本文档使用 <a href="https://www.iminho.me" target="_blank">MinDoc</a> 发布
-                </p>
             </div>
         </div>
         <div class="manual-right">
