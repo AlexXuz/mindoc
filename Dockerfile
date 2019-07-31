@@ -42,7 +42,7 @@ ADD simsun.ttc /usr/share/fonts/win/
 
 FROM alpine:latest
 
-LABEL maintainer="longfei6671@163.com"
+LABEL maintainer="ansha01@qq.com"
 
 RUN apk add --update && \
     apk add --no-cache --upgrade \
