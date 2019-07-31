@@ -54,7 +54,7 @@
                 {{end}}
                 {{end}}
                 <div class="dropdown pull-right" style="margin-right: 10px;">
-                    <a href="{{urlfor "HomeController.Index"}}" class="btn btn-default"><i class="fa fa-home" aria-hidden="true"></i> 首页</a>
+                    <a href="" class="btn btn-default"><i class="fa fa-home" aria-hidden="true"></i> 首页</a>
                 </div>
                 <div class="dropdown pull-right" style="margin-right: 10px;">
                 {{if eq .Model.PrivatelyOwned 0}}
@@ -127,9 +127,6 @@
                 </div>
             </div>
             <div class="m-copyright">
-                <p>
-                    本文档使用 <a href="https://www.iminho.me" target="_blank">MinDoc</a> 发布
-                </p>
             </div>
         </div>
         <div class="manual-right">
